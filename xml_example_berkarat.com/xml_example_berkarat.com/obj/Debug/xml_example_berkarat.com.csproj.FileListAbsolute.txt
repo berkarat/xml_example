@@ -1,0 +1,9 @@
+c:\users\berk\documents\visual studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\bin\Debug\xml_example_berkarat.com.exe.config
+c:\users\berk\documents\visual studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\bin\Debug\xml_example_berkarat.com.exe
+c:\users\berk\documents\visual studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\bin\Debug\xml_example_berkarat.com.pdb
+c:\users\berk\documents\visual studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\obj\Debug\xml_example_berkarat.com.csprojResolveAssemblyReference.cache
+c:\users\berk\documents\visual studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\obj\Debug\xml_example_berkarat.com.Properties.Resources.resources
+c:\users\berk\documents\visual studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\obj\Debug\xml_example_berkarat.com.csproj.GenerateResource.Cache
+c:\users\berk\documents\visual studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\obj\Debug\xml_example_berkarat.com.exe
+c:\users\berk\documents\visual studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\obj\Debug\xml_example_berkarat.com.pdb
+C:\Users\Berk\Documents\Visual Studio 2017\Projects\xml_example_berkarat.com\xml_example_berkarat.com\obj\Debug\xml_example_berkarat.com.Form1.resources
